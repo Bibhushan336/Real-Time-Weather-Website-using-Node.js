@@ -1,0 +1,9 @@
+da113053537790a9caa8b8d6f9baef58
+
+
+api.openweathermap.org/data/3.0/weather?q=Pune&appid=e968a3be6d5c83092d8fb6c650cef832
+
+https://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=e968a3be6d5c83092d8fb6c650cef832
+
+
+https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid=api.openweathermap.org/data/2.5/weather?q=Pune&appid=e968a3be6d5c83092d8fb6c650cef832

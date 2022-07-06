@@ -1,0 +1,22 @@
+{
+  "name": "real-time-weather-website-using-node",
+  "version": "1.0.0",
+  "description": "Project website using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bibhushan336/Real-Time-Weather-Website-using-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bibhushan336/Real-Time-Weather-Website-using-Node.js/issues"
+  },
+  "homepage": "https://github.com/Bibhushan336/Real-Time-Weather-Website-using-Node.js#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
